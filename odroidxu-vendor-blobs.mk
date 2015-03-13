@@ -39,7 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/hardkernel/odroidxu/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/hardkernel/odroidxu/proprietary/vendor/firmware/setfile_gumi_imx135.bin:system/vendor/firmware/setfile_gumi_imx135.bin \
     vendor/hardkernel/odroidxu/proprietary/vendor/firmware/setfile_sec_imx135.bin:system/vendor/firmware/setfile_sec_imx135.bin \
-    vendor/hardkernel/odroidxu/proprietary/vendor/firmware/fimc_is_fw2.bin:system/vendor/firmware/fimc_is_fw2.bin \
-    vendor/hardkernel/odroidxu/proprietary/vendor/firmware/setfile_imx135.bin:system/vendor/firmware/setfile_imx135.bin \
     vendor/hardkernel/odroidxu/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/hardkernel/odroidxu/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so
+    vendor/hardkernel/odroidxu/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/hardkernel/odroidxu/proprietary/vendor/lib/liblvverx_3.18.11.so:system/vendor/lib/liblvverx_3.18.11.so \
+    vendor/hardkernel/odroidxu/proprietary/vendor/lib/liblvvetx_3.18.11.so:system/vendor/lib/liblvvetx_3.18.11.so \
+    vendor/hardkernel/odroidxu/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so
